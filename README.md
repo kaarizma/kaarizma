@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmet Elgörmüş
-- 👀 I’m interested in software
+- 👀 I’m interested in Software
 - 🌱 I’m currently learning PhP
 - 💞️ I’m looking to collaborate on YOU
 - 📫 How to reach me ;
